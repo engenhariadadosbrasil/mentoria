@@ -19,6 +19,11 @@ Aqui listamos as tecnologias utilizadas nos nossos laboratórios e tutoriais par
 - Jupyter com PySpark
 [Iniciando em DS com Jupyter](https://www.linkedin.com/pulse/iniciando-sua-jornada-em-data-science-project-jupyter-let%C3%ADcia-gomes/) - Essa instalação é para quem gostaria de instalar "tudo na unha". embora o Docker seja mais prático.
 
-No diretório [case_1-COVID-19](https://github.com/engenhariadadosbrasil/mentoria/tree/main/case_1-COVID-19) você os detalhes necessários para iniciar o ambiente de exploração, bem como um descrição completa de cada etapa do pipeline. 
+No diretório [case_1-COVID-19](https://github.com/engenhariadadosbrasil/mentoria/tree/main/case_1-COVID-19) você encontrará os detalhes necessários para iniciar o ambiente de exploração, bem como um descrição completa de cada etapa do pipeline. 
 
 Tenha um ótimo aprendizado !
+
+
+## Melhorando o aprendizado
+
+Para expandir seu aprendizado, execute os exemplos, mas executando modificações e acrescentando funcionalidades.
